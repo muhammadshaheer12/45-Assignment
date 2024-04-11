@@ -1,2 +1,2 @@
-let personname: string = "shaheer";
-console.log(`hello ${personname}, would you like to learn some typescript today?`);
+let personname = "shaheer";
+console.log("hello ${personname}, would you like to learn some typescript today?");
