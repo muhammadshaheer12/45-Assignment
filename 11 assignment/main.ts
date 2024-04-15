@@ -1,6 +1,6 @@
-let names =["rohab", "rafay", "hamza", "shariq", "ahsan"];
-console.log(names[0]);
-console.log(names[1]);
-console.log(names[2]);
-console.log(names[3]);
-console.log(names[4]);
+let Names: string[] =["rohab", "rafay", "hamza", "bilal", "ahsan"];
+console.log(Names[0]);
+console.log(Names[1]);
+console.log(Names[2]);
+console.log(Names[3]);
+console.log(Names[4]);

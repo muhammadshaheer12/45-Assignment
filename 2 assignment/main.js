@@ -1,3 +1,3 @@
 "use strict";
-let personname = "shaheer";
-console.log(`hello ${personname}, would you like to learn some typescript today?`);
+let personName = "shaheer";
+console.log(`hello ${personName}, would you like to learn some typescript today?`);

@@ -1,5 +1,5 @@
 "use strict";
-let personName = "shaheer";
-console.log(personName.toUpperCase());
-console.log(personName.toLowerCase());
-console.log(personName.charAt(0).toUpperCase() + personName.slice(1).toLowerCase());
+let personname = "shaheer";
+console.log(personname.toLowerCase());
+console.log(personname.toUpperCase());
+console.log(personname.charAt(0).toUpperCase() + personname.slice(1).toLowerCase());

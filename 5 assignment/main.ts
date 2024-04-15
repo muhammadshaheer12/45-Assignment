@@ -1,3 +1,3 @@
-let famousperson = "muhammad iqbal";
-let message = `${famousperson} once said, \"the ultimate aim of the ego is not to see something, but to be something.\"`;
+let famousperson: string = "muhammad iqbal";
+let message: string = `${famousperson} once said, \"the ultimate aim of the ego is not to see something, but to be something.\"`;
 console.log(message);
